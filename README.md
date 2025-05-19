@@ -6,17 +6,17 @@ This user story outlines the specifications for building two dashboards using ta
 
 Sales Dashboard | Requirements
 
-**Dashboard Purpose**
+📊**Dashboard Purpose**
 
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
 **Key Requirements**
 
-**KPI Overview**
+📈**KPI Overview**
 
 Display a summary of total sales, profits and quantity for the current year and the previous year.
 
-**Sales Trends**
+🪙**Sales Trends**
 • Present the data for each KPI on a monthly basis for both the current year and the previous year.
    
 • Identify months with highest and lowest sales and make them easy to recognize.
@@ -38,15 +38,15 @@ Display a summary of total sales, profits and quantity for the current year and 
  ![image](https://github.com/user-attachments/assets/960f359a-c37b-47d2-9cd4-f42b10671d3b)
 
 
-**Customer Dashboard | Requirements**
+🤵**Customer Dashboard | Requirements**
 
 **Dashboard Purpose**
 
 The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
 
-**Key Requirements
+**Key Requirements**
 
-**KPI Overview****
+**KPI Overview**
 
 Display a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
 
